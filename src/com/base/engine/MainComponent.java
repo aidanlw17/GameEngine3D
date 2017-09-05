@@ -81,6 +81,7 @@ public class MainComponent {
 			
 			if(render) {
 				render();
+				frames++;
 			} else {
 				try {
 					Thread.sleep(1);
