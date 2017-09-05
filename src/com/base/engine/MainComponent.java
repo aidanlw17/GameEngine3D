@@ -14,7 +14,6 @@ public class MainComponent {
 		
 		isRunning = false;
 		game = new Game();
-		System.out.println("Test");
 	}
 	
 	public void start() {
